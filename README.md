@@ -32,3 +32,5 @@ If you add three asterisks, then the text will be bold and italicized.<be>
 | `***word***` | ***word*** |
 | `***grass***` | ***grass*** |
 
+In the next section, we'll talk about creating lists and other resources like that in the next page. 
+[Next]() 
