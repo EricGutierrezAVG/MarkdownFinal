@@ -1,3 +1,4 @@
+# Lists and Tables
 As stated in the previous page, I'll be showing you how to create lists using markdown 
 
 It's kinda hard to show an input and output since markdown likes to freak out when a list is inside a list. Either that or I'm doing something wrong. 
