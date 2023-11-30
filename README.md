@@ -33,4 +33,4 @@ If you add three asterisks, then the text will be bold and italicized.<be>
 | `***grass***` | ***grass*** |
 
 In the next section, we'll talk about creating lists and other resources like that in the next page. 
-[Next]() 
+[Lists & Tables](https://github.com/EricGutierrezAVG/MarkdownFinal/blob/main/List.md) 
