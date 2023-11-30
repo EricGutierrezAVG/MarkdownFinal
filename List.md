@@ -43,4 +43,5 @@ Another neat thing that you can do is copy whatever is inside the bubble with th
 
 Speaking of images, lets talk about imbeds. 
 
-[Home](https://github.com/EricGutierrezAVG/MarkdownFinal/blob/main/README.md)
+[Home](https://github.com/EricGutierrezAVG/MarkdownFinal/blob/main/README.md) [Embeds](https://github.com/EricGutierrezAVG/MarkdownFinal/blob/main/Embeds.md)
+
