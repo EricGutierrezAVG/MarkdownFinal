@@ -6,7 +6,7 @@
 #### DO NOT USE WITHOUT PERMISSION
 
 We'll start off with the *Basics of Markdown!* <br>
-This tutorial will be meant to teach or show the basics of Markdown, so hopefully nothing here will be too complicated. 
+This tutorial will be meant to teach or show the basics of Markdown, so hopefully nothing here will be too complicated. Markdown is just a watered down version of HTML and CSS, so nothing too complicated here. It's a text file format.
 
 As you can tell, we can easily create **bold** and *italicized* text. <br>
 For bold, we need to put two asterisks on both ends of the word. <br>
