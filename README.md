@@ -2,6 +2,9 @@
 
 ### Learning the Basics of Markdown
 
+#### Created by Eric Gutierrez
+#### DO NOT USE WITHOUT PERMISSION
+
 We'll start off with the *Basics of Markdown!* <br>
 This tutorial will be meant to teach or show the basics of Markdown, so hopefully nothing here will be too complicated. 
 
