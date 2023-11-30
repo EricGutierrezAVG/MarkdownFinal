@@ -33,3 +33,13 @@ I'll show you what the code looks like now.
 - [ ] Make food for the week
 ```
 It's really simple but it's fast just to copy and paste the - [ ] and dont forget the space in the middle and the x if you want to mark it. 
+
+You were problably wondering how I'm able to have those bubbles show the internal code too. Its really easy. You just put three ` on two different lines and the code in the middle. 
+It's a little hard to show so I'll put in an image instead. <br> 
+![Dem Image](dem.png)
+<br>
+Another neat thing that you can do is copy whatever is inside the bubble with the coopt button at the top right. Kinda fun so you cna test it yourself if you're having issues.<br> 
+
+Speaking of images, lets talk about imbeds. 
+
+[Home](https://github.com/EricGutierrezAVG/MarkdownFinal/blob/main/README.md)
